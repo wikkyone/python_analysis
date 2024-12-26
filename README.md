@@ -1,6 +1,6 @@
 # python_analysis
-This is a repository specifically for storing projects of Formula_IT_Polytech
-В файле task7_2.ipynb представлено решение задания 7_2.
+This is a repository specifically for storing projects of Formula_IT_Polytech	
+В файле task7_2.ipynb представлено решение задания 7_2.  
 В решении было использовано 3 функции:
 1 check_input(elements)
 2 get_substring(s)
